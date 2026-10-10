@@ -1,3 +1,5 @@
+
 User-agent: *
 Allow: /
-Sitemap: https://vyastha.in/sitemap.xml
+
+Sitemap: https://discover.vyastha.in/sitemap.xml
