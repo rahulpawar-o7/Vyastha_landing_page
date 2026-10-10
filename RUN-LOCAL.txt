@@ -1,0 +1,7 @@
+Run locally (needs Node.js):
+  1. Open a terminal in this folder
+  2. npx serve -s .
+  3. Open http://localhost:3000  (all routes like /pricing, /features work)
+
+No Node? Double-click index.html (home page works; use the menu to move between pages).
+Internet is needed for the Google Fonts.
